@@ -18,11 +18,11 @@
 - **WordPress Development** – Custom post types, archives, and hierarchical filtering systems.
 
 ### 🛠️ Tech Stack
-- **AI & ML:** TensorFlow, PyTorch, YOLO, MediaPipe, GANs, Kalman Filters
+- **AI & ML:** TensorFlow, PyTorch, YOLO, MediaPipe, GANs
 - **Programming:** Python, C++, JavaScript, SQL
 - **Databases:** SQL, Firebase
-- **Web Dev:** HTML, CSS, JavaScript, WordPress
-- **Tools:** Git, Docker, OpenCV, Sockets, Threads, TUIO
+- **Web Dev:** HTML, CSS, WordPress
+- **Tools:** Git, OpenCV, Sockets, Threads, TUIO
 
 ### 📫 Connect with Me
 -  [[**Google Scholar**]](https://scholar.google.com/citations?user=JHk6_KcAAAAJ&hl=en&authuser=2&oi=ao)
