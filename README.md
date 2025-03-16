@@ -25,8 +25,8 @@
 - **Tools:** Git, Docker, OpenCV, Sockets, Threads, TUIO
 
 ### 📫 Connect with Me
--  [[**Google Scholar**]](https://scholar.google.com/citations?user=JHk6_KcAAAAJ&hl=en&authuser=2&oi=ao)(#)
--  [[**LinkedIn**]](https://www.linkedin.com/in/mazenebrahim/)(#)
+-  [[**Google Scholar**]](https://scholar.google.com/citations?user=JHk6_KcAAAAJ&hl=en&authuser=2&oi=ao)
+-  [[**LinkedIn**]](https://www.linkedin.com/in/mazenebrahim/)
 - **Email:** mazen.ebrahim0702@gmail.com
 
 Let's build something awesome together! 🚀
