@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mazen A. Ebrahim
 
-🚀 **Computer Science Student | AI & Software Enthusiast | Researcher | Tech Community Leader**
+🚀 **Computer Science Student | AI & ML Enthusiast | Researcher | Tech Community Leader**
 
 ---
 
